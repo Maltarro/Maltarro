@@ -33,22 +33,10 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 My stack</h3>
+<h3 data-importer="text" align="left">🛠 My Skills</h3>
 
 ###
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=blender,bash,cs,cloudflare,css,discord,docker,dotnet,git,github,html,linux,ps,pr,py,pycharm,pytorch,unreal,vscode,arch&perline=10)](https://skill-icons-builder.vercel.app/)
 
 ###
